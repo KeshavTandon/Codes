@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-        cout << "Enter the amount 2" <<endl;
+        cout << "Enter the amount 3" <<endl;
 
     int amount;
     int Rs100,Rs50,Rs20,Rs1;
