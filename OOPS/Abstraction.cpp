@@ -1,0 +1,1 @@
+//Abstraction is hidden in header files Eg sort()-we use it without knowing its actual implementation or which alogorithm is used.
